@@ -1,0 +1,13 @@
+:root {
+  --white: rgba(255, 255, 255, 1);
+  --blackblack-10: rgba(162, 169, 176, 1);
+  --z-white-fff: rgba(255, 255, 255, 1);
+  --blueblue-50: rgba(118, 174, 255, 1);
+  --paragraph-regular-16px-font-family: "Roboto", Helvetica;
+  --paragraph-regular-16px-font-weight: 400;
+  --paragraph-regular-16px-font-size: 16px;
+  --paragraph-regular-16px-letter-spacing: 0px;
+  --paragraph-regular-16px-line-height: 150%;
+  --paragraph-regular-16px-font-style: normal;
+  --variable-collection-main-color: rgba(28, 11, 119, 1);
+}
